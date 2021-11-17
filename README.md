@@ -18,6 +18,12 @@ Wybieramy toola:
 
     Validate
 
+Po podpięciu kontetera trzeba włączyć analize:
+
+Settings > Editor > Inspections > Quality tools
+
+Zaznaczmy co chcemy uruchomić
+
 Do działania psalm wymagany jest plik konfiguracyjny psalm.xml w katalogu głównym projektu
 
 `<?xml version="1.0"?>
