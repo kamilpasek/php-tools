@@ -1,0 +1,1 @@
+docker run php-tools -d --name tools

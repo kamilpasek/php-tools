@@ -1,0 +1,1 @@
+docker rmi php-tools --force && docker build . --tag php-tools
